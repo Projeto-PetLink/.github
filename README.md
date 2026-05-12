@@ -4,7 +4,7 @@ Sistema de gerenciamento de adoção de pets para ONGs.
 
 ## 📌 Sobre o Projeto
 
-O **PetLink** conecta ONGs e adotantes de forma simples e organizada.
+O **PetLink** conecta Pets e adotantes de forma simples e organizada.
 
 A plataforma permite:
 
