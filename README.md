@@ -16,11 +16,9 @@ Nossa missão é simplificar o processo de adoção responsável através de pla
 
 Desenvolvemos sistemas para:
 
-- Gestão de abrigos e ONGs
 - Controle de adoções
 - Cadastro e acompanhamento de pets
 - Automação de processos de adoção
-- Conexão entre adotantes e instituições
 
 ---
 
