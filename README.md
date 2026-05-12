@@ -1,73 +1,71 @@
 # 🐾 PetLink
 
-Sistema de gerenciamento de adoção de pets para ONGs.
-
-## 📌 Sobre o Projeto
-
-O **PetLink** conecta Pets e adotantes de forma simples e organizada.
-
-A plataforma permite:
-
-- Cadastro de pets disponíveis para adoção
-- Upload de fotos dos animais
-- Busca com filtros por espécie e idade
-- Solicitações de adoção
-- Aprovação de adoções por voluntários
+Conectando pets a novos lares com tecnologia.
 
 ---
 
-## 👥 Perfis do Sistema
+## Quem Somos
 
-### 🛠️ Voluntário (Admin)
+A **PetLink** é uma organização focada em soluções digitais para ONGs e instituições de proteção animal.
 
-Responsável por:
-
-- Cadastrar pets
-- Atualizar status de adoção
-- Gerenciar solicitações
-- Aprovar adoções
-
-### ❤️ Adotante
-
-Pode:
-
-- Visualizar pets disponíveis
-- Filtrar animais
-- Demonstrar interesse
-- Solicitar adoção
+Nossa missão é simplificar o processo de adoção responsável através de plataformas modernas, acessíveis e seguras.
 
 ---
 
-## 🐶 Regras de Negócio
+## 💡 O que Fazemos
 
-- Um adotante pode solicitar vários pets
-- Apenas uma adoção pode ser aprovada por vez
-- Pets possuem status:
-  - Disponível
-  - Adotado
+Desenvolvemos sistemas para:
 
----
-
-## 🚀 Tecnologias
-
-- Frontend: 
-- Backend: 
-- Banco: 
-- Upload de imagens
-- API REST
+- Gestão de abrigos e ONGs
+- Controle de adoções
+- Cadastro e acompanhamento de pets
+- Automação de processos de adoção
+- Conexão entre adotantes e instituições
 
 ---
 
-## 📂 Repositórios
+## 🚀 Nossos Produtos
 
-| Repositório | Descrição |
+| Produto | Descrição |
 |---|---|
-| `petlink-web` | Frontend da aplicação |
-| `petlink-api` | Backend e regras de negócio |
-| `petlink-docs` | Documentação do sistema |
+| `petlink-platform` | Plataforma principal de adoção |
+| `petlink-api` | API e serviços internos |
+| `petlink-admin` | Painel administrativo |
+| `petlink-docs` | Documentação técnica |
+
+---
+## 🔒 Compromisso
+
+Na PetLink acreditamos em:
+
+- Adoção responsável
+- Segurança de dados
+- Transparência
+- Impacto social positivo
+- Tecnologia acessível
 
 ---
 
-## 🤝 Contribuição
+## 👥 Nossa Equipe
 
-Contribuições são bem-vindas!
+A organização é composta por:
+
+- Desenvolvedores
+- Designers
+- Voluntários
+- Parceiros de ONGs
+- Colaboradores da comunidade
+
+---
+
+## 📫 Contato
+
+- Email: contato@petlink.com
+- Website: https://petlink.com
+- LinkedIn: https://linkedin.com/company/petlink
+
+---
+
+## 🐶 PetLink
+
+Tecnologia aproximando pets de novos lares.
