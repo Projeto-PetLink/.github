@@ -50,9 +50,9 @@ Pode:
 
 ## 🚀 Tecnologias
 
-- Frontend: React / Next.js
-- Backend: Node.js
-- Banco: PostgreSQL
+- Frontend: 
+- Backend: 
+- Banco: 
 - Upload de imagens
 - API REST
 
@@ -72,5 +72,3 @@ Pode:
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas!
-
-Leia o guia de contribuição antes de abrir PRs ou Issues.
