@@ -64,7 +64,6 @@ Pode:
 |---|---|
 | `petlink-web` | Frontend da aplicação |
 | `petlink-api` | Backend e regras de negócio |
-| `petlink-mobile` | Aplicativo mobile |
 | `petlink-docs` | Documentação do sistema |
 
 ---
