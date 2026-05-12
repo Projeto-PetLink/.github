@@ -1,4 +1,3 @@
-# .github
 # 🐾 PetLink
 
 Sistema de gerenciamento de adoção de pets para ONGs.
